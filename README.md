@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jonathanibravo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanibravo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonathan bravo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan bravo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonathan-bravo-681440245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-bravo-681440245" height="30" width="40" /></a>
 <a href="https://instagram.com/jonathanibravo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathanibravo" height="30" width="40" /></a>
 <a href="https://discord.gg/Jonathan Bravo#5373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jonathan Bravo#5373" height="30" width="40" /></a>
 </p>
