@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jona!! 🧑‍💻</h1>
 <h3 align="center">I'm Fronend Developer. I'm a web developer, starting in the world of technology. Always with desire and interest to learn and use new technologies, to be able to perform always in the best way.</h3>
-<img aling="right" alt="coding" width="200" src= "https://user-images.githubusercontent.com/115961024/199359667-fd8fd015-9ac1-4feb-b6af-a5187d3276f6.png">
+<img align="right" alt="Codificación" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 - 🔭 I’m currently working on [T-RS Recetas](https://github.com/JonathanIBravo/PreEntrega3-BravoJonathan.git)
 
 - 🌱 I’m currently learning **Course JavaScript**
